@@ -1,5 +1,5 @@
---creates a second table in the database
---creates multiple rows of data
+-- creates a second table in the database
+-- creates multiple rows of data
 
 CREATE TABLE IF NOT EXISTS second_table(
         id INT,

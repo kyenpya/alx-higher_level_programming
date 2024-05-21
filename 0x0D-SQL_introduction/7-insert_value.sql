@@ -1,4 +1,4 @@
---inserts new row into the table
+-- inserts new row into the table
 
 INSERT INTO first_table
 VALUES

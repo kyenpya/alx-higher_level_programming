@@ -1,4 +1,4 @@
---uppdates the value of a table
+-- updates the value of a table
 
 UPDATE second_table
 SET score = 10
